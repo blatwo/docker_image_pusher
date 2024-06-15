@@ -1,2 +1,2 @@
---platform=linux/amd64,linux/amd64 postgis/postgis:12-3.4
-
+--platform=linux/amd64 postgis/postgis:12-3.4
+--platform=linux/arm64 postgis/postgis:12-3.4

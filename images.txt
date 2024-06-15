@@ -1,2 +1,6 @@
---platform=linux/amd64 postgis/postgis:12-3.4
---platform=linux/arm64 postgis/postgis:12-3.4
+--platform=linux/amd64 qiuchenjun/hgdb-see:4.5.7
+--platform=linux/amd64 qiuchenjun/hgdb-see:4.5.8
+--platform=linux/arm64 qiuchenjun/hgdb-see:4.5.8
+--platform=linux/amd64 qiuchenjun/hgdb-see:4.5.8.5
+--platform=linux/arm64 qiuchenjun/hgdb-see:4.5.8.5
+--platform=linux/amd64 qiuchenjun/hgdb-see:4.5.8.5-16kb

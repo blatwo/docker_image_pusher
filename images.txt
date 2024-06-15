@@ -4,3 +4,5 @@
 --platform=linux/amd64 qiuchenjun/hgdb-see:4.5.8.5
 --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.8.5
 --platform=linux/amd64 qiuchenjun/hgdb-see:4.5.8.5-16kb
+--platform=linux/amd64 qiuchenjun/hgdb-see-postgis:4.5.8.5_3.1.0
+--platform=linux/arm64 qiuchenjun/hgdb-see-postgis:4.5.8.5_3.1.0

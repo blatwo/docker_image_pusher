@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql/5.7.44
+--platform=linux/amd64 mysql:5.7.44

@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:8.0
+--platform=linux/arm64 qiuchenun/hgdb-ee:6.0.4.1

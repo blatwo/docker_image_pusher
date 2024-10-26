@@ -1,1 +1,2 @@
---platform=linux/arm64 qiuchenun/hgdb-ee:6.0.4.1
+--platform=linux/amd64 qiuchenun/hgdb-see:4.5.10
+--platform=linux/arm64 qiuchenun/hgdb-see:4.5.10
